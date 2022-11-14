@@ -1,2 +1,2 @@
 # leetcode
-An attempt to learn data structures properly, lol
+An attempt to learn data structures properly.
